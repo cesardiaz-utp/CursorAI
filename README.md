@@ -25,7 +25,7 @@ Este repositorio contiene el material del curso sobre Cursor AI, una IDE potenci
   - Ejercicio Práctico 1: Corrigiendo Errores con AI
 - Preguntas y Respuestas sobre Chat y Errores (5 min)
 
-### [Hora 3: Usos Intermedios, Buenas Prácticas y Cierre](3-Usos-intermedios-buenas-practicas.md)
+### [Hora 3: Usos Intermedios, Buenas Prácticas y Cierre](3-usos-intermedios-buenas-practicas.md)
 - Análisis de Código con Contexto (Multi-archivo) (25 min)
   - El poder de "@" (Arroba)
   - Ejemplos de uso de "@"

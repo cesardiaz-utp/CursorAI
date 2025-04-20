@@ -1,8 +1,6 @@
 # Hora 3: Usos Intermedios, Buenas Prácticas y Cierre
 
----
-
-**Análisis de Código con Contexto (Multi-archivo) (25 min)**
+## Análisis de Código con Contexto (Multi-archivo) (25 min)
 
 En esta sección, veremos cómo Cursor AI entiende y trabaja con proyectos que tienen múltiples archivos, algo esencial para proyectos más grandes y realistas.
 
@@ -28,9 +26,7 @@ En esta sección, veremos cómo Cursor AI entiende y trabaja con proyectos que t
 
 * **Mención breve de "Agent" (Opcional, si hay tiempo):** Para tareas más complejas que involucran muchos cambios en el proyecto, Cursor AI tiene "Agents". Son flujos de trabajo automatizados controlados por la IA. Se pueden mencionar, pero su uso a fondo está más allá del nivel intermedio.
 
----
-
-**Optimizando la Interacción: Prompts y Reglas Básicas (20 min)**
+## Optimizando la Interacción: Prompts y Reglas Básicas (20 min)
 
 Para sacarle el máximo provecho a Cursor AI, aprender a comunicarnos efectivamente con la IA es crucial.
 
@@ -49,9 +45,7 @@ Para sacarle el máximo provecho a Cursor AI, aprender a comunicarnos efectivame
     * Lee, entiende y prueba el código que genera. Puede ser bueno, pero también puede tener errores sutiles o no ajustarse *exactamente* a tus necesidades.
     * A veces, es más rápido escribir el código tú mismo que pasar mucho tiempo depurando el código generado por la IA.
 
----
-
-**Recursos Adicionales y Comunidad (10 min)**
+## Recursos Adicionales y Comunidad (10 min)
 
 Cursor AI es una herramienta que evoluciona rápidamente. Para mantenerse al día:
 
@@ -59,8 +53,6 @@ Cursor AI es una herramienta que evoluciona rápidamente. Para mantenerse al dí
 * **Comunidades y Foros:** Hay comunidades online (Reddit, Discord, etc.) donde puedes hacer preguntas, compartir consejos y ver cómo otros usan Cursor AI.
 * **Blog y Anuncios:** Sigue el blog oficial o las cuentas de redes sociales de Cursor AI para enterarte de nuevas funciones, mejoras y mejores prácticas.
 
----
-
-**Cierre y Preguntas Finales (5 min)**
+## Cierre y Preguntas Finales (5 min)
 
 ¡Llegamos al final de esta clase! Espero que ahora se sientan mucho más cómodos usando Cursor AI.  ¿Tienen alguna pregunta final antes de terminar?
